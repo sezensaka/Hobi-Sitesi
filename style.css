@@ -1,0 +1,99 @@
+*{
+	margin:0;
+	padding:0;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.logo{
+    width: 24px;
+    height: 24px;
+}
+
+.link1{
+    text-decoration: none;
+    color: brown;
+    margin-right: 10px;
+    font-size: 20px;
+    text-align: center;
+}
+
+.linkler{
+    width: auto;
+    background-color: rgb(255, 249, 241);
+    justify-content: center;
+    padding: 10px 10px 10px 20px;
+    border-radius: 10px;
+    margin: 10px 10px;
+    box-shadow: 0 2px 4px 0 rgba(184, 168, 168, 0.2), 0 6px 20px 0 rgba(184, 168, 168, 0.19);
+}
+
+.content{
+    width: 800px;
+    justify-content: center;
+    margin: auto;
+    text-align: center;
+}
+
+h2{
+    text-align: center;
+    font-size: 24px;
+    color: brown;
+    text-decoration: underline;
+    font-weight: lighter;
+    margin: 10px;
+    padding: 20px 0px;
+}
+
+.listeler{
+    list-style-type:decimal;
+    margin-left: 20px;
+    font-size: 20px;
+    list-style-position: inside;
+    padding: 20px;
+    margin: 20px;
+}
+
+.taki1{
+    width: 400px;
+    align-items: center;
+    padding-bottom: 10px;
+}
+
+.content2{
+    width: 800px;
+    justify-content: center;
+    margin: auto;
+    align-items: center;
+}
+
+.content2{
+    width: 800px;
+    justify-content: center;
+    margin: auto;
+    align-items: center;
+    padding-top: 20px;
+}
+
+p{
+    font-size: 20px;
+    line-height: 30px;
+    color: rgb(218, 109, 0);
+    letter-spacing: 1px;
+    padding-left: 10px;
+}
+
+.contenth2{
+    width: auto;
+}
+
+.baslik{
+    width: auto;
+    display: flex;
+    justify-content: center;
+    padding-top: 10px;
+}
+
+.galeri{
+    width: 260px;
+    height: 400px;
+    padding-bottom: 10px;
+}
